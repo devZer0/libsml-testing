@@ -6,7 +6,7 @@ your SML capable device.
 
 
 This is very valuable information to test SML parsers, to know about the 
-capabilities of different Smart Meters and to get an impresseion on how good 
+capabilities of different Smart Meters and to get an impression on how good 
 Smart Meters behave according to the specs.
 
 Create dumps in binary and hex format from your smartmeter and submit those as 
@@ -29,7 +29,7 @@ follows:
    about your smart meter and ask questions (see FILES)
 
 6. As we have no better method for now, Zip your files and submit them via mail 
-   to devzero AT web.de . 
+   to devzero AT web.de . You can also send a git pull request. 
 
 7. Discuss about with others about SML on volkszaehler-dev@lists.volkszaehler.org.
 
