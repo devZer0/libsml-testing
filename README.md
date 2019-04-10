@@ -36,7 +36,9 @@ follows:
 
 7. Discuss about with others about SML on volkszaehler-dev@lists.volkszaehler.org.
 
-8. For testing you can use the libsml parser example program from https://github.com/volkszaehler/libsml
+8. For testing you can use the libsml parser example program from 
+   https://github.com/volkszaehler/libsml
+   
    Use it like this for example:
    
    $ cat ../../libsml-testing/EMH_eHZ-GW8E2A500AK2.bin | ./sml_server - | head -n10
@@ -51,11 +53,13 @@ follows:
    1-0:1.8.1*255#14798113.0#Wh
    1-0:1.8.2*255#2012.4#Wh
 
-9. Do NOT use libsml from dailab github repo, as this is unmaintained. https://github.com/volkszaehler/libsml 
+9. Do NOT use libsml from dailab github repo, as this is unmaintained. 
+   https://github.com/volkszaehler/libsml 
    is the official version
 
-10. If your sml program which should process binary sml does not support stdin, you can feed binary sml via a serial fake
-    device the following way. use that instead of /dev/ttyUSB0 or /dev/ttyS0
+10. If your sml program which should process binary sml does not support stdin, you can 
+    feed binary sml via a serial fake device the following way. use that instead of 
+    /dev/ttyUSB0 or /dev/ttyS0 
     Effectively, you simulate a serially attached smart meter this way
 
     get socat and execute
