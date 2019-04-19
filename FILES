@@ -1,9 +1,10 @@
-filename			submitter	contact			comment
---------			---------	-------			-------
+filename				submitter	contact			comment
+--------				---------	-------			-------
 
-EMH_eHZ-GW8E2A500AK2		roland		devzero AT web.de
-EMH_eHZ-HW8E2AWL0EK2P		roland		devzero AT web.de
-EMH_eHZ_IW8E2A5L0EK2P_crash	varaktor 	koenichii AT gmx.de	this one is causing a segfault. libsml bug?
-EMH_eHZ-HW8E2A5L0EK2P		r3wald		-
-EMH_eHZ-HW8E2A5L0EK2P_1		r3wald		-
-DrNeuhaus_SMARTY_ix-130         roland		devzero AT web.de
+EMH_eHZ-GW8E2A500AK2			roland		devzero AT web.de
+EMH_eHZ-HW8E2AWL0EK2P			roland		devzero AT web.de
+EMH_eHZ_IW8E2A5L0EK2P_with_error	varaktor 	koenichii AT gmx.de     seems to contain invalid data, formerly crashing libsml	
+EMH_eHZ-HW8E2A5L0EK2P			r3wald		-
+EMH_eHZ-HW8E2A5L0EK2P_1			r3wald		-
+DrNeuhaus_SMARTY_ix-130         	roland		devzero AT web.de
+ISKRA_MT691_eHZ-MS2020			roland		devzero AT web.de
