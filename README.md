@@ -1,7 +1,7 @@
 ```
 #libsml-testing
 
-this is a try to collect SML messages from real-world Smart Meters
+this is a collection of SML messages from real-world Smart Meters
 
 The Open-Source Smart-Metering community would like to get some realworld data 
 from all those SML Smart Meters out there, so please submit some data from 
@@ -31,12 +31,14 @@ follows:
 5.  If you like, add some owner/contact information, so others may contact you 
     about your smart meter and ask questions (see FILES)
 
-6.  As we have no better method for now, Zip your files and submit them via mail 
-    to devzero AT web.de . You can also send a git pull request. 
+6.  Please submit your files via Pull-Request, see 
+    https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests 
+    If you don't like git or don't understand how to do that, you can send files via mail 
+    to devzero AT web.de . 
 
-7.  Discuss about with others about SML on volkszaehler-dev@lists.volkszaehler.org.
+7.  Discuss about SML with others on volkszaehler-dev@lists.volkszaehler.org.
 
-8.  For testing you can use the libsml parser example program from 
+8.  For decoding the binary sml data you can use the libsml parser example program from 
     https://github.com/volkszaehler/libsml
    
     Use it like this for example:
@@ -54,8 +56,8 @@ follows:
     1-0:1.8.2*255#2012.4#Wh
 
 9.  Do NOT use libsml from dailab github repo, as this is unmaintained. 
-    https://github.com/volkszaehler/libsml 
-    is the official version
+    Please use https://github.com/volkszaehler/libsml , this is the official and maintained version.
+    Report Bugs to: https://github.com/volkszaehler/libsml/issues
 
 10. If your sml program which should process binary sml does not support stdin, you can 
     feed binary sml via a serial fake device the following way. use that instead of 
