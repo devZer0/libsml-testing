@@ -25,7 +25,7 @@ follows:
 3.  Convert your .bin file into .hex like this: 
     cat yoursmldump.bin |hexdump -ve '1/1 "%.2X"' >yoursmldump.hex
     
-    If you have sml data in hex format alread, you can convert it into binary like this:
+    If you have sml data in hex format already, you can convert it into binary like this:
     cat yoursmldump.hex | xxd -r -p >yoursmldump.bin
 
 4.  Name your files like this: <VENDOR>_<MODEL>-<MODELNR>.bin|hex, e.g. 
