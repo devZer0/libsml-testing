@@ -1,6 +1,9 @@
 filename                          submitter                      contact               comment
 --------                          ---------                      -------               -------
 
+DZG_DVS-7420.2V.G2_mtr0.bin       https://github.com/dbeyer      Dirk.Beyer AT sosy-lab.org
+DZG_DVS-7420.2V.G2_mtr1.bin       https://github.com/dbeyer      Dirk.Beyer AT sosy-lab.org
+DZG_DVS-7420.2V.G2_mtr2.bin       https://github.com/dbeyer      Dirk.Beyer AT sosy-lab.org
 EMH_eHZ-GW8E2A500AK2              https://github.com/devZer0     devzero AT web.de
 EMH_eHZ-HW8E2AWL0EK2P             https://github.com/devZer0     devzero AT web.de
 EMH_eHZ_IW8E2A5L0EK2P_with_error  varaktor                       koenichii AT gmx.de   seems to contain invalid data, formerly crashing libsml	
