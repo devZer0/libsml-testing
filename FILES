@@ -1,6 +1,7 @@
 filename                          submitter                      contact               comment
 --------                          ---------                      -------               -------
 
+DZG_DVS-7412.2_jmberg.bin         https://github.com/jmberg                                      Wrongly encoded power value 356.24 as -299.12
 DZG_DVS-7420.2V.G2_mtr0.bin       https://github.com/dbeyer      Dirk.Beyer AT sosy-lab.org      Household, has values for: 1.8.0, 2.8.0, 16.7.0
 DZG_DVS-7420.2V.G2_mtr1.bin       https://github.com/dbeyer      Dirk.Beyer AT sosy-lab.org      Heat pump, has values for: 1.8.1, 1.8.2, 16.7.0
 DZG_DVS-7420.2V.G2_mtr2.bin       https://github.com/dbeyer      Dirk.Beyer AT sosy-lab.org      Generator, has values for: 2.8.0, 16.7.0
