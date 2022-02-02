@@ -1,5 +1,5 @@
-filename                          submitter                      contact               comment
---------                          ---------                      -------               -------
+filename                          submitter                      contact                         comment
+--------                          ---------                      -------                         -------
 
 DZG_DVS-7412.2_jmberg.bin         https://github.com/jmberg                                      Wrongly encoded power value 356.24 as -299.12
 DZG_DVS-7420.2V.G2_mtr0.bin       https://github.com/dbeyer      Dirk.Beyer AT sosy-lab.org      Household, has values for: 1.8.0, 2.8.0, 16.7.0
@@ -8,7 +8,7 @@ DZG_DVS-7420.2V.G2_mtr2.bin       https://github.com/dbeyer      Dirk.Beyer AT s
 DZG_DVS-7420.2V.G2_mtr2_neg.bin   https://github.com/dbeyer      Dirk.Beyer AT sosy-lab.org      Generator, has 2-bytes negative value 16.7.0
 EMH_eHZ-GW8E2A500AK2              https://github.com/devZer0     devzero AT web.de
 EMH_eHZ-HW8E2AWL0EK2P             https://github.com/devZer0     devzero AT web.de
-EMH_eHZ_IW8E2A5L0EK2P_with_error  varaktor                       koenichii AT gmx.de   seems to contain invalid data, formerly crashing libsml	
+EMH_eHZ_IW8E2A5L0EK2P_with_error  varaktor                       koenichii AT gmx.de             seems to contain invalid data, formerly crashing libsml	
 EMH_eHZ-HW8E2A5L0EK2P             https://github.com/r3wald     
 EMH_eHZ-HW8E2A5L0EK2P_1           https://github.com/r3wald
 EMH_eHZ-HW8E2A5L0EK2P_2           https://github.com/wbeck77
@@ -16,6 +16,6 @@ EMH_eHZ361L5R                     https://github.com/wbeck77
 DrNeuhaus_SMARTY_ix-130           https://github.com/devZer0     devzero AT web.de 
 ISKRA_MT691_eHZ-MS2020            https://github.com/devZer0     devzero AT web.de
 EMH_eHZ-IW8E2AWL0EK2P             René Simon
-HOLLEY_DTZ541-ZDBA                https://github.com/magicWF     git@weidemann.online  provide no standard SML 
-ITRON_OpenWay-3.HZ                https://github.com/SaimenSays                        https://github.com/volkszaehler/libsml/issues/83   (crc issue)
+HOLLEY_DTZ541-ZDBA                https://github.com/magicWF     git@weidemann.online            provide no standard SML 
+ITRON_OpenWay-3.HZ                https://github.com/SaimenSays                                  https://github.com/volkszaehler/libsml/issues/83   (crc issue)
 ISKRA_MT175_eHZ                   https://github.com/erniberni
