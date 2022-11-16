@@ -1,0 +1,14 @@
+on: [push, pull_request]
+
+name: CI
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    name: Check
+    steps:
+      - name: Checkout sources
+        uses: actions/checkout@v3
+      
+      - name: Consistency checks
+        run: python3 .github/check.py
